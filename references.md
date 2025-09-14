@@ -1,3 +1,1 @@
-# References
-
-* octocat 1 😈
+these are my references that conflict with main
